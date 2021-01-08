@@ -1,0 +1,12 @@
+ali_ecs_user_ops_passwd = "xxx"
+ali_ecs_ip = "xxx"
+remote_connect_port = 22
+ali_ecs_user = "xxx"
+ali_ecs_pms_clean_dir = "/home/ops/"
+ali_ecs_gitlab_clean_dir = "/home/ops/"
+ali_ecs_pms_backup_dir = "/mnt/cjpms/app/zentao/tmp/backup/"
+internal_service_pms_backup_dir = "/opt/backup/cex-cjpms/"
+internal_service_gitlab_backup_dir = "/opt/backup/gitlab/"
+ali_ecs_jenkins_clean_dir = "/home/ops/"
+ali_ecs_jenkins_source_backup_file_name = "jenkins-data"
+internal_service_jenkins_backup_dir = "/opt/backup/jenkins/"
